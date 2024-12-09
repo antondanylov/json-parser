@@ -1,0 +1,14 @@
+plugins {
+    id 'java' // Apply the Java plugin
+}
+
+group = 'com.antondanylov'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral() // Use Maven Central for dependencies
+}
+
+dependencies {
+}
+
